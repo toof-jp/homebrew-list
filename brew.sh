@@ -11,13 +11,14 @@ brew install uv
 brew install rustup
 brew install node
 brew install tmux
+brew install mise
 brew install --cask iterm2
 brew install --cask brave-browser
 brew install --cask claude
-brew install --cask google-chrome
 brew install --cask visual-studio-code
 brew install --cask cursor
 brew install --cask firefox
-brew install --cask slack
 brew install --cask alt-tab
 brew install --cask claude-code
+brew install --cask gcloud-cli
+brew install --cask docker
