@@ -13,6 +13,7 @@ brew install node
 brew install tmux
 brew install mise
 brew install awscli
+brew install gnupg
 brew install --cask iterm2
 brew install --cask brave-browser
 brew install --cask claude
