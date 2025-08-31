@@ -1,1 +1,1 @@
-# homebrew-list
+# macos-package-scripts
