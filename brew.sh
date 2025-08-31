@@ -12,6 +12,7 @@ brew install rustup
 brew install node
 brew install tmux
 brew install mise
+brew install awscli
 brew install --cask iterm2
 brew install --cask brave-browser
 brew install --cask claude
@@ -22,3 +23,4 @@ brew install --cask alt-tab
 brew install --cask claude-code
 brew install --cask gcloud-cli
 brew install --cask docker
+brew install --cask karabiner-elements
