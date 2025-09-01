@@ -25,3 +25,5 @@ brew install --cask claude-code
 brew install --cask gcloud-cli
 brew install --cask docker
 brew install --cask karabiner-elements
+brew install --cask bettertouchtool
+brew install --cask alacritty
