@@ -17,6 +17,7 @@ brew install gnupg
 brew install starship
 brew install ykman
 brew install pinentry-mac
+brew install gomi
 brew install --cask iterm2
 brew install --cask brave-browser
 brew install --cask claude
